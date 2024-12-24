@@ -1152,7 +1152,7 @@ Copy the content of `0-index.html` into `1-index.html`
 
 Copy the content of `1-index.html` into `2-index.html`
 
-![Screenshot](Screenshots/)
+![Screenshot](Screenshots/tag.png)
 
 **Meta charset:**
 
