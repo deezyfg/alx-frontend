@@ -1011,7 +1011,7 @@ You can save it in a `index.html` file and replace the `<link rel='stylesheet' h
 
 # End goal of the project
 
-![Image](images/project_end_goal)
+![Image](images/project_end_goal.jpg)
 
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 
