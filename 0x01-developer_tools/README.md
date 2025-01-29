@@ -8,7 +8,7 @@ This project focuses on **mastering browser developer tools** to enhance **debug
 
 In this project, you will analyze this website [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/).
 
-## Resources
+## Resources :books:
 
 **Read or watch:**
 
@@ -20,7 +20,7 @@ In this project, you will analyze this website [https://dev-tools.alx-tools.com/
 * [Keeping it simple with the JavaScript console - LogRocket Blog](https://blog.logrocket.com/keeping-it-simple-with-the-javascript-console/)
 * [Inspect Network Activity - Chrome DevTools 101](https://www.youtube.com/watch?v=e1gAyQuIFQo)
 
-## Learning Objectives
+## Learning Objectives :bulb:
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ### General
@@ -44,7 +44,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Use the newest version of Google Chrome browser (`78.0.3904.70` or later).
 * Screenshots can be taken via the OS, not necessary via the DevTools. These screenshots are used to see how and where you are doing/playing with the DevTools.
 
-## Tasks
+## Tasks :card_file_box:
 
 ### Mandatory Tasks:
 
@@ -539,3 +539,14 @@ Take a screenshot of it
 * GitHub repository: `alx-frontend`
 * Directory: `0x01-developer_tools`
 * File: [34-ssl_expiration.png](34-ssl_expiration.png)
+
+---
+
+## Author
+
+* **Peter Opoku-Mensah** ([@deezyfg](https://github.com/deezyfg))
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic)](https://peter-opoku-mensah.netlify.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/coded_issue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opokumensahpeter/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white)](https://github.com/deezyfg)
