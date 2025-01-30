@@ -83,7 +83,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### `00-index.html`
 
 <details>
-<summary><b>Click to expand/hide file contents></b><br>
+<summary><b>Click to expand/hide file contents</summary></b><br>
 
 ```
 <!DOCTYPE html>
@@ -464,7 +464,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### `00-styles.css`
 
 <details>
-<summary><b>Click to expand/hide file contents></b><br>
+<summary><b>Click to expand/hide file contents</summary></b><br>
 
 ```
 /* SUMMARY
@@ -1450,7 +1450,7 @@ Size step: `25`
 * Maximum images: `3`
 * Art-direction: `Desktops`
 * Upload your images one at a time:
-    * pic-about-01.jpg`
+    * `pic-about-01.jpg`
     * `pic-article-01.jpg`
     * `pic-article-02.jpg`
     * `pic-article-03.jpg`
@@ -1606,15 +1606,15 @@ Going back to the `/* menu btn */` section
 
 **Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed**
 
-![Image](images/rendering_on_wide_screen_6)
+![Image](images/rendering_on_wide_screen_6.jpg)
 
 **Rendering on screen with max-width: 767 px, when input is checked the menu block is displayed**
 
-![Image](images/rendering_on_wide_screen_7)
+![Image](images/rendering_on_wide_screen_7.jpg)
 
 **Rendering on desktop screen, menu icon is not visible**
 
-![Image](images/rendering_on_wide_screen_8)
+![Image](images/rendering_on_wide_screen_8.jpg)
 
 **Repo:**
 
@@ -2078,3 +2078,4 @@ Inside the `/* Comment` section, before the end of the section:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/coded_issue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opokumensahpeter/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white)](https://github.com/deezyfg)
+
