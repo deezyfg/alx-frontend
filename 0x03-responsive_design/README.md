@@ -19,7 +19,7 @@ Before talking about media-queries, the backbone of responsive web design. Some 
 <br>
 
 ## Viewport
-The `viewport` is a meta tag introduced in our first HTML advanced module that controls how a web page is displayed on mobile devices. The `width=device-width` attribute forces mobile browsers to adopt their real viewport width. The initial-scale=1 sets the initial zoom level when the page is first loaded.
+The `viewport` is a meta tag introduced in our first HTML advanced module that controls how a web page is displayed on mobile devices. The `width=device-width` attribute forces mobile browsers to adopt their real viewport width. The `initial-scale=1` sets the initial zoom level when the page is first loaded.
 
 ### Code example
 
@@ -35,6 +35,8 @@ The `viewport` is a meta tag introduced in our first HTML advanced module that c
 The `box-sizing` property determines how the total width and height of an element are calculated. When set to `border-box`, it includes padding and border in the element's total width and height, making it easier to create predictable layouts. This is often applied globally to all elements for consistent sizing across the entire document.
 
 ### Code example
+
+```
 *, *:before, *:after {
   box-sizing: border-box;
 }
